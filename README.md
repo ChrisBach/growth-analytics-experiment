@@ -12,13 +12,13 @@ End-to-end growth analytics project simulating a randomized experiment to evalua
 
 ## Project Structure
 data/
-  raw/        # Original transaction data
-  processed/  # Cleaned and aggregated datasets
+  raw # Original transaction data/        
+  processed # Cleaned and aggregated datasets/  
 
 notebooks/
-  01_metrics_and_experiment_setup.ipynb
-  02_experiment_analysis.ipynb
-  03_statistical_validation.ipynb
+  01_metrics_and_experiment_setup.ipynb/
+  02_experiment_analysis.ipynb/
+  03_statistical_validation.ipynb/
 
 ## Key Findings
 - Positive GMV uplift observed in treatment group
