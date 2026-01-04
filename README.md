@@ -12,14 +12,14 @@
 - Business-focused interpretation of results
 
 ## Project Structure
-data/
-  - raw # Original transaction data from Kaggle/        
-  - processed # Cleaned and aggregated datasets/  
+data
+  - raw # Original transaction data from Kaggle      
+  - processed # Cleaned and aggregated datasets  
 
-notebooks/
-  - 01_metrics_and_experiment_setup.ipynb/
-  - 02_experiment_analysis.ipynb/
-  - 03_statistical_validation.ipynb/
+notebooks
+  - 01_metrics_and_experiment_setup.ipynb
+  - 02_experiment_analysis.ipynb
+  - 03_statistical_validation.ipynb
 
 ## Key Findings
 - Positive GMV uplift observed in treatment group
