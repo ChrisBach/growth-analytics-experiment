@@ -13,8 +13,8 @@
 
 ## Project Structure
 data/
-  raw # Original transaction data/        
-  processed # Cleaned and aggregated datasets/  
+  - raw # Original transaction data/        
+  - processed # Cleaned and aggregated datasets/  
 
 notebooks/
   01_metrics_and_experiment_setup.ipynb/
