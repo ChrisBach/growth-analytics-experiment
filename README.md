@@ -1,8 +1,8 @@
 # Growth Analytics Experiment — GMV Uplift Analysis
 
 ## Overview
-End-to-end growth analytics project simulating a randomized experiment to evaluate GMV impact using transactional data.
-Dataset: https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset?select=online_retail.csv
+- End-to-end growth analytics project simulating a randomized experiment to evaluate GMV impact using transactional data
+- Dataset: https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset?select=online_retail.csv
 
 ## Key Skills Demonstrated
 - SQL-style data aggregation with pandas
